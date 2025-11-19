@@ -3,8 +3,6 @@ using namespace std;
 
 int main()
 {
-          cout << "this is 2 branch" << endl;
           cout << "login system" << endl;
-
           return 0;
 }
